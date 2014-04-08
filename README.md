@@ -1,4 +1,4 @@
-#### CREATED BY Michael Wilson ####
+#### CREATED BY Mike Wilson ####
 
 YOU MUST FOLLOW THESE STEPS FOR THIS SCRIPT TO WORK.
 
