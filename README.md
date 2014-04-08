@@ -15,4 +15,5 @@ To setup:
 	change the url in the body variable to your local .gif
 	change the insite variable to be the txt api page for your local area (example in the script)
 	change the CCOpic variable to be your local image gif (example in the script)
-	Set this script to run in the crontab
+	set smtp server IP address
+	set this script to run in the crontab
