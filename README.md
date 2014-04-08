@@ -6,6 +6,7 @@ YOU MUST FOLLOW THESE STEPS FOR THIS SCRIPT TO WORK.
 Note: 
 	This is configured to send smtp messages to a mail server. If you want to send an email to your personal mail (gmail or other) you can google that and replace the smtplib and associated objects.
 
+	Run with --debug to see more verbose output
 
 To setup:
 
